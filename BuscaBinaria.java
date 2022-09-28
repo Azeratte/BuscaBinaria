@@ -2,10 +2,6 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-// Lucas Ribeiro Cano - RA 21436547
-// Kaio Caglioni - RA 21456233
-// Leonardo Dantas - RA 21470295
-// Pedro Henrique de Oliveira Colnago - RA 21369438
 
 public class BuscaBinaria {
     public static void main(String[] args) {
